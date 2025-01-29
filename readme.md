@@ -30,4 +30,5 @@ limitations, including:
 Running
 -------
 
-Use `gcc -o lsh src/main.c` to compile, and then `./lsh` to run.
+Use `make run` to compile and run
+Use `make clean` to clear obj and bin directories
