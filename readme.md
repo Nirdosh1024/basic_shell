@@ -31,4 +31,5 @@ Running
 -------
 
 Use `make run` to compile and run
+
 Use `make clean` to clear obj and bin directories
